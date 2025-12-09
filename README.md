@@ -170,10 +170,10 @@ Funções implementadas:
 
 ### Como compilar e executar
 
-```bash
 g++ -std=c++17 src/*.cpp -o sensores
 ./sensores
-7. Uso de Ferramentas de IA Generativa
+
+## 7. Uso de Ferramentas de IA Generativa
 Ferramentas de IA foram utilizadas para a revisão do código e correção de erros de sintaxe, bem como para o auxílio na organização textual e formatação no README, e revisão de erros gramaticais.
 
 ## 8. Referências
