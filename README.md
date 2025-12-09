@@ -168,3 +168,16 @@ Funções implementadas:
 - `rangeQuery(x, y)`  
 - `median()`  
 
+### Como compilar e executar
+
+```bash
+g++ -std=c++17 src/*.cpp -o sensores
+./sensores
+7. Uso de Ferramentas de IA Generativa
+Ferramentas de IA foram utilizadas para a revisão do código e correção de erros de sintaxe, bem como para o auxílio na organização textual e formatação no README, e revisão de erros gramaticais.
+
+## 8. Referências
+
+- GeeksforGeeks — *Red-Black Tree (Introduction)*  
+  https://www.geeksforgeeks.org/red-black-tree-set-1-introduction/
+- Materiais passados em aula(slides e apresentações)
